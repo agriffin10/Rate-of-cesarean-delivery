@@ -1,0 +1,16 @@
+html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'Monterrat';
+  font-weight: bold;
+  src: url('Montserrat-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-weight: bold;
+  src: url('lora-regular-webfront.woff2') format('woff2');
+}
